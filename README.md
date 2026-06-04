@@ -56,6 +56,7 @@ I’m focused on improving my problem-solving skills while building strong softw
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lleyton20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1929-concatenation-of-array](https://github.com/Lleyton20/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ I’m focused on improving my problem-solving skills while building strong softw
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lleyton20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Lleyton20/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
