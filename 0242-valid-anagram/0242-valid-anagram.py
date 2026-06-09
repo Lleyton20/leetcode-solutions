@@ -1,3 +1,4 @@
+from collections import Counter 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         # base case anagrams have the same number of letters thus same len 
@@ -5,8 +6,15 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        elif sorted(s)==sorted(t):
-            return True
+        s= Counter(s)
+        t= Counter(t)
+        return s == t
+      
+
+   
 
         
-        return False
+
+    
+
+    
