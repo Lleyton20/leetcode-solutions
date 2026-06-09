@@ -74,4 +74,13 @@ I’m focused on improving my problem-solving skills while building strong softw
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lleyton20/leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
