@@ -56,6 +56,7 @@ I’m focused on improving my problem-solving skills while building strong softw
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lleyton20/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Lleyton20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lleyton20/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Lleyton20/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Lleyton20/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -75,15 +76,18 @@ I’m focused on improving my problem-solving skills while building strong softw
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lleyton20/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Lleyton20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Lleyton20/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lleyton20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Lleyton20/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Lleyton20/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lleyton20/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
